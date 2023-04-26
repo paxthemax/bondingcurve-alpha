@@ -136,7 +136,7 @@ export function explorerUrl(chainId: number | undefined, type: UrlType, param: s
     }
 }
 
-const SOLC_DEFAULT: string = `0.8.17`;
+const SOLC_DEFAULT: string = `0.8.18`;
 
 // Try to use the Foundry config as a source of truth
 let foundry;
